@@ -1,2 +1,1 @@
 # GifTastic
-GifTastic App 
